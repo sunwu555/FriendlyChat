@@ -1,0 +1,28 @@
+[debug] [2017-11-13T00:00:13.448Z] ----------------------------------------------------------------------
+[debug] [2017-11-13T00:00:13.451Z] Command:       /anaconda3/envs/working/bin/node /anaconda3/envs/working/bin/firebase serve
+[debug] [2017-11-13T00:00:13.451Z] CLI Version:   3.15.0
+[debug] [2017-11-13T00:00:13.451Z] Platform:      darwin
+[debug] [2017-11-13T00:00:13.451Z] Node Version:  v6.11.2
+[debug] [2017-11-13T00:00:13.451Z] Time:          Sun Nov 12 2017 19:00:13 GMT-0500 (EST)
+[debug] [2017-11-13T00:00:13.451Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-13T00:00:13.461Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-13T00:00:13.462Z] > authorizing via signed-in user
+[debug] [2017-11-13T00:00:13.464Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendlychat-25c0f  
+ Sun Nov 12 2017 19:00:13 GMT-0500 (EST)
+[debug] [2017-11-13T00:00:13.754Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-13T00:00:13.755Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendlychat-25c0f/tokens  
+ Sun Nov 12 2017 19:00:13 GMT-0500 (EST)
+[debug] [2017-11-13T00:00:14.143Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/wusun/Desktop/friendlychat-web/web-start'...
+[info] 
+[debug] [2017-11-13T00:00:14.151Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-25c0f  
+ Sun Nov 12 2017 19:00:14 GMT-0500 (EST)
+[debug] [2017-11-13T00:00:14.763Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-13T00:00:14.763Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/389598492238/clients/_:getWebAppConfig  
+ Sun Nov 12 2017 19:00:14 GMT-0500 (EST)
+[debug] [2017-11-13T00:00:15.177Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5000
+
