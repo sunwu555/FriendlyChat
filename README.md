@@ -4,4 +4,7 @@ https://friendlychat-25c0f.firebaseapp.com
 ---
 ## Test
 https://monkeytest.it/test/5111e08f-0205-47d5-9ff2-5991c33c1b4d
+
 Issues report: Mostly passed, failed for no Googled log in.
+
+![](https://github.com/sunwu555/FriendlyChat/blob/master/2017-12-09.png)
